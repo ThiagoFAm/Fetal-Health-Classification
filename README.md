@@ -49,19 +49,8 @@ Construir um modelo de aprendizado de máquina capaz de classificar o risco da s
 - Identificação de padrões relevantes nos dados.
 
 ### 3. Desenvolvimento de Modelos Preditivos:
-- Testar diferentes algoritmos de aprendizado de máquina, como:
-  - Árvores de Decisão
-  - Random Forests
-  - SVM
-  - KNN
-  - Redes Neurais
-- Avaliar o desempenho do modelo com métricas apropriadas para classificação multiclasse, como:
-  - Acurácia
-  - Precisão
-  - Recall
-  - F1-score
-  - Matriz de Confusão
-- Realizar validação cruzada para evitar overfitting e avaliar a generalização do modelo.
+  
+-(a definir)
 
 ### 4. Avaliação e Implementação:
 - Avaliar a explicabilidade do modelo preditivo usando técnicas de interpretação de modelo, como **SHAP** ou **LIME**, para garantir que os resultados sejam compreensíveis para profissionais médicos.
